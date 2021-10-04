@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/Oct/2021:00:04:37 +0800] "POST /app/register HTTP/1.1" 405 752
+127.0.0.1 - - [05/Oct/2021:00:07:45 +0800] "POST /app/register HTTP/1.1" 405 752
+127.0.0.1 - - [05/Oct/2021:00:08:33 +0800] "GET /app/querybook.html HTTP/1.1" 304 -
+127.0.0.1 - - [05/Oct/2021:00:08:35 +0800] "POST /app/register HTTP/1.1" 405 752
+127.0.0.1 - - [05/Oct/2021:00:08:47 +0800] "POST /app/register HTTP/1.1" 405 752
+127.0.0.1 - - [05/Oct/2021:00:09:04 +0800] "GET /app/register HTTP/1.1" 200 278
+127.0.0.1 - - [05/Oct/2021:00:09:09 +0800] "GET /app HTTP/1.1" 302 -
+127.0.0.1 - - [05/Oct/2021:00:09:09 +0800] "GET /app/ HTTP/1.1" 200 1221
+127.0.0.1 - - [05/Oct/2021:00:09:11 +0800] "GET /app/register.html HTTP/1.1" 200 439
+127.0.0.1 - - [05/Oct/2021:00:09:13 +0800] "GET /app/query?author=Mohammad+Ali HTTP/1.1" 200 317

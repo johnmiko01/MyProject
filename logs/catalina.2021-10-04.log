@@ -1,0 +1,82 @@
+04-Oct-2021 23:12:30.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.53
+04-Oct-2021 23:12:30.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 6 2021 19:09:00 UTC
+04-Oct-2021 23:12:30.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.53.0
+04-Oct-2021 23:12:30.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Oct-2021 23:12:30.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Oct-2021 23:12:30.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2021 23:12:30.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+04-Oct-2021 23:12:30.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+04-Oct-2021 23:12:30.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2021 23:12:30.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:12:30.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:12:30.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\miko\Downloads\MyProject\conf\logging.properties
+04-Oct-2021 23:12:30.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2021 23:12:30.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2021 23:12:30.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2021 23:12:30.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2021 23:12:30.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:12:30.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:12:30.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\miko\Downloads\MyProject\temp
+04-Oct-2021 23:12:30.396 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\miko\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\MATLAB\R2021a\bin;C:\Users\miko\Downloads\MyProject\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\miko\AppData\Local\Microsoft\WindowsApps;C:\Users\miko\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;.]
+04-Oct-2021 23:12:30.856 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:12:30.881 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [755] milliseconds
+04-Oct-2021 23:12:30.923 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2021 23:12:30.923 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+04-Oct-2021 23:12:30.935 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\docs]
+04-Oct-2021 23:12:31.322 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [150] milliseconds.
+04-Oct-2021 23:12:31.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\docs] has finished in [410] ms
+04-Oct-2021 23:12:31.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\examples]
+04-Oct-2021 23:12:31.716 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\examples] has finished in [371] ms
+04-Oct-2021 23:12:31.716 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\host-manager]
+04-Oct-2021 23:12:31.756 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\host-manager] has finished in [39] ms
+04-Oct-2021 23:12:31.756 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\manager]
+04-Oct-2021 23:12:31.788 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\manager] has finished in [31] ms
+04-Oct-2021 23:12:31.788 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\ROOT]
+04-Oct-2021 23:12:31.810 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\ROOT] has finished in [22] ms
+04-Oct-2021 23:12:31.814 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:12:31.833 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [951] milliseconds
+04-Oct-2021 23:18:02.221 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\app]
+04-Oct-2021 23:18:02.307 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\app] has finished in [85] ms
+04-Oct-2021 23:35:21.136 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:35:21.282 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2021 23:35:21.313 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:35:21.341 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:35:30.646 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.53
+04-Oct-2021 23:35:30.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 6 2021 19:09:00 UTC
+04-Oct-2021 23:35:30.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.53.0
+04-Oct-2021 23:35:30.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Oct-2021 23:35:30.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Oct-2021 23:35:30.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2021 23:35:30.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+04-Oct-2021 23:35:30.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+04-Oct-2021 23:35:30.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2021 23:35:30.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:35:30.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:35:30.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\miko\Downloads\MyProject\conf\logging.properties
+04-Oct-2021 23:35:30.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2021 23:35:30.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2021 23:35:30.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2021 23:35:30.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2021 23:35:30.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:35:30.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\miko\Downloads\MyProject
+04-Oct-2021 23:35:30.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\miko\Downloads\MyProject\temp
+04-Oct-2021 23:35:30.660 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\miko\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\MATLAB\R2021a\bin;C:\Users\miko\Downloads\MyProject\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\miko\AppData\Local\Microsoft\WindowsApps;C:\Users\miko\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;.]
+04-Oct-2021 23:35:31.084 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:35:31.113 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [674] milliseconds
+04-Oct-2021 23:35:31.139 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2021 23:35:31.140 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+04-Oct-2021 23:35:31.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\app]
+04-Oct-2021 23:35:31.582 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [162] milliseconds.
+04-Oct-2021 23:35:31.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\app] has finished in [457] ms
+04-Oct-2021 23:35:31.613 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\docs]
+04-Oct-2021 23:35:31.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\docs] has finished in [38] ms
+04-Oct-2021 23:35:31.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\examples]
+04-Oct-2021 23:35:32.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\examples] has finished in [355] ms
+04-Oct-2021 23:35:32.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\host-manager]
+04-Oct-2021 23:35:32.044 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\host-manager] has finished in [38] ms
+04-Oct-2021 23:35:32.044 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\manager]
+04-Oct-2021 23:35:32.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\manager] has finished in [31] ms
+04-Oct-2021 23:35:32.076 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\miko\Downloads\MyProject\webapps\ROOT]
+04-Oct-2021 23:35:32.103 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\miko\Downloads\MyProject\webapps\ROOT] has finished in [26] ms
+04-Oct-2021 23:35:32.108 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:35:32.121 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1008] milliseconds
